@@ -23,7 +23,9 @@ def sayBye():
 
 
 
-
+- [ ]   Excel at life
+- [ ]   Be a good kid
+- [x]   Be a patient guy
 
 
 
